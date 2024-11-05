@@ -6,11 +6,7 @@ This document outlines the projects, along with the steps involved in building t
 
 A simple tool to convert one currency into another.
 
-## 2. Brick Breaker Game
-
-A classic arcade game where the player controls a paddle to break bricks using a ball.
-
-## 3. Number Guessing Game
+## 2. Number Guessing Game
 
 A simple game where the player must guess a randomly generated number within a given range.
 
@@ -19,6 +15,10 @@ A simple game where the player must guess a randomly generated number within a g
 1. User have 3 chances to guess the right number.
 2. User have to choose within 10 seconds.
 3. User have to guess between 1 to 100 range.
+
+## Run Program
+
+clone the repo and change the directory that you want to run the program. And run java then the file name.java.
 
 ## Conclusion
 
