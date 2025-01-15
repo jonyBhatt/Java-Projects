@@ -4,9 +4,10 @@ import java.util.Scanner;
 
 public class Fib {
   public static void main(String[] args) {
-    Scanner scan = new Scanner(System.in);
-    int number = scan.nextInt();
-    scan.close();
+      int number;
+      try (Scanner scan = new Scanner(System.in)) {
+          number = scan.nextInt();
+      }
 
     int start = 0;
     int next = 1;

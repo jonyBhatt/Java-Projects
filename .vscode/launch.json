@@ -1,0 +1,98 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListExample",
+      "request": "launch",
+      "mainClass": "arrays.ArrayListExample",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "MultiDimensioanl",
+      "request": "launch",
+      "mainClass": "arrays.MultiDimensioanl",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "currencyconverter.main",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "Fib",
+      "request": "launch",
+      "mainClass": "fibonacci.Fib",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumber",
+      "request": "launch",
+      "mainClass": "functions.PrimeNumber",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "SwapNumbers",
+      "request": "launch",
+      "mainClass": "functions.SwapNumbers",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "Main(1)",
+      "request": "launch",
+      "mainClass": "linearsearch.Main",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "numberGuess",
+      "request": "launch",
+      "mainClass": "numberguessing.numberGuess",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "FindKm",
+      "request": "launch",
+      "mainClass": "problemsolve.FindKm",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "SecondMaximum",
+      "request": "launch",
+      "mainClass": "problemsolve.SecondMaximum",
+      "projectName": "Java_b03fa3c1"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "reversestring.ReverseString",
+      "projectName": "Java_b03fa3c1"
+    }
+  ]
+}
